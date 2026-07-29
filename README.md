@@ -32,3 +32,9 @@ Excel-Practice
 ## 🎯 Goal
 
 To strengthen my Excel skills for Data Analytics through practical exercises and real-world datasets.
+
+## Upcoming Projects
+
+- GlobalMart Sales Analytics (Excel)
+- SQL Practice
+- Power BI Dashboard
